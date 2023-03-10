@@ -4,7 +4,7 @@
 - 🌱 I’m currently studying at <a href="https://en.bc.fi/">Business College Helsinki</a>
 
 ### Connect with me
-<a href="https://www.linkedin.com/in/santosh-chapagai-44b313131/"><img src="https://cdn.pixabay.com/photo/2023/01/23/05/23/linkedin-7737854__480.png" height="2rem" width="2rem"></a>
+<a href="https://www.linkedin.com/in/santosh-chapagai-44b313131/"><img src="https://cdn.pixabay.com/photo/2023/01/23/05/23/linkedin-7737854__480.png" height="5rem" width="5rem"></a>
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=SantoshChapagai.SantoshChapagai)
