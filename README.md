@@ -1,5 +1,8 @@
-### Hi there 👋
+# Santosh Chapagai 
 
+- 🔭 I’m Master's in Business Administration graduate and full stack web developer.
+- 🌱 I’m currently studying at <a href="https://en.bc.fi/">Business College Helsinki</a>
+![](https://visitor-badge.laobi.icu/badge?page_id=SantoshChapagai.SantoshChapagai)
 <!--
 **SantoshChapagai/SantoshChapagai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
