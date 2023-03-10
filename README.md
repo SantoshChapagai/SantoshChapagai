@@ -8,10 +8,10 @@
 <a href="mailto:santoshchapagai100@gmail.com"><img src="https://api.openverse.engineering/v1/images/a69f63cd-895f-431e-af56-a6b891b3f651/thumb/" height="50rem" width="60rem"></a>
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=SantoshChapagai.SantoshChapagai)
+
 <!--
 **SantoshChapagai/SantoshChapagai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://visitor-badge.laobi.icu/badge?page_id=SantoshChapagai.SantoshChapagai)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
