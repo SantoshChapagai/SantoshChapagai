@@ -5,7 +5,7 @@
 
 ### Connect with me
 <ul>
-  <li><a href="https://www.linkedin.com/in/santosh-chapagai-44b313131/">Linkedin</a></li><br>
+  <li><a href="https://www.linkedin.com/in/santosh-chapagai-44b313131/">Linkedin</a></li>
   <li><a href="mailto:santoshchapagai100@gmail.com">Mail</a></li>
 </ul>
 
