@@ -1,6 +1,6 @@
 # Santosh Chapagai 
 
-- 🔭 I’m a Master's in Business Administration graduate and a full stack web developer.
+- 🔭 I’m a <strong>Full Stack Web Developer</strong> and a <strong>Master's in Business Administration graduate</strong>.
 - 🌱 I’m a full stack web development graduate from <a href="https://en.bc.fi/">Business College Helsinki</a>
 
 ## Connect with me
