@@ -21,7 +21,7 @@
   <img width=50px src="https://tse1.mm.bing.net/th?id=OIP.PTx0fs0EKUBTgyBSlNcw8gHaHa&pid=Api&P=0&h=180">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">&nbsp;
+  <img width=50px src="https://cdn-icons-png.flaticon.com/128/919/919836.png">&nbsp;
   <img width=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;
 </div>
 
