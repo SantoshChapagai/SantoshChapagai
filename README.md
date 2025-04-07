@@ -15,14 +15,14 @@
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png">&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">&nbsp;
+  <img width=50px src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png">&nbsp;
-  <img width=50px src="https://tse1.mm.bing.net/th?id=OIP.PTx0fs0EKUBTgyBSlNcw8gHaHa&pid=Api&P=0&h=180">&nbsp;
+  <img width=50px src="https://cdn-icons-png.flaticon.com/128/5968/5968691.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/919/919825.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/875/875209.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/919/919836.png">&nbsp;
-  <img width=60px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;
+  <img width=60px src="https://img.icons8.com/?size=96&id=bosfpvRzNOG8&format=png">&nbsp;
 </div>
 
 
