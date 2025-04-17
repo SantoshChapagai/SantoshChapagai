@@ -24,7 +24,7 @@
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/5968/5968691.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/919/919825.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/919/919836.png">&nbsp;
-  <img width=60px src="https://img.icons8.com/?size=96&id=bosfpvRzNOG8&format=png">&nbsp;
+  <img width=50px src="https://img.icons8.com/?size=96&id=bosfpvRzNOG8&format=png">&nbsp;
   <img width=50px src="https://img.icons8.com/?size=96&id=33039&format=png">&nbsp;
 </div>
 
