@@ -26,6 +26,7 @@
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/919/919836.png">&nbsp;
   <img width=50px src="https://img.icons8.com/?size=96&id=bosfpvRzNOG8&format=png">&nbsp;
   <img width=50px src="https://img.icons8.com/?size=96&id=33039&format=png">&nbsp;
+  <img width=50px src="https://cdn-icons-png.flaticon.com/128/15466/15466052.png">&nbsp;
 </div>
 
 
