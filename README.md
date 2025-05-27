@@ -18,7 +18,7 @@
   <img width=40px src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png">&nbsp;
   <img width=50px src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png">&nbsp;
   <img width=40px src="https://img.icons8.com/?size=96&id=gFw7X5Tbl3ss&format=png">&nbsp;
-  <img width=50px src="https://cdn-icons-png.flaticon.com/128/875/875209.png">&nbsp;
+  <img width=45px src="https://cdn-icons-png.flaticon.com/128/875/875209.png">&nbsp;
   <img width=40px src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png">&nbsp;
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/5968/5968691.png">&nbsp;
