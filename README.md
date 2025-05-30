@@ -3,7 +3,7 @@
 - 🔭 I’m a <strong>Full Stack Web Developer</strong> and a <strong>Master's in Business Administration graduate</strong>.
 - 🌱 I’m a full stack web development graduate from a <a href="https://en.bc.fi/">Business College Helsinki</a>
 
-## Connect with me
+## 📫 How to reach me:
 <ul>
   <li><a href="https://www.linkedin.com/in/santosh-chapagai-44b313131/" target="_blank">Linkedin</a></li>
   <li><a href="https://instagram.com/san____tosh?igshid=ZDdkNTZiNTM=" target="_blank">Instagram</a></li>
