@@ -29,11 +29,11 @@
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/15466/15466052.png">&nbsp;
 </div>
 
-
+![](https://visitor-badge.laobi.icu/badge?page_id=SantoshChapagai.SantoshChapagai)
 
 <!--
 **SantoshChapagai/SantoshChapagai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://visitor-badge.laobi.icu/badge?page_id=SantoshChapagai.SantoshChapagai)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
