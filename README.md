@@ -9,6 +9,7 @@
   <li><a href="https://instagram.com/san____tosh?igshid=ZDdkNTZiNTM=" target="_blank">Instagram</a></li>
   <li><a href="mailto:santoshchapagai100@gmail.com" target="_blank">Mail</a></li>
 </ul>
+![](https://visitor-badge.laobi.icu/badge?page_id=SantoshChapagai.SantoshChapagai)
 
 ## Languages and Tools:
 <div>
@@ -29,7 +30,7 @@
   <img width=50px src="https://cdn-icons-png.flaticon.com/128/15466/15466052.png">&nbsp;
 </div>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=SantoshChapagai.SantoshChapagai)
+
 
 <!--
 **SantoshChapagai/SantoshChapagai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
